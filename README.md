@@ -1,6 +1,5 @@
 # Quick-Render-GTAV-model-to-RA2
 
-A small toy of MaxScript for Red Alert 2.
 之前做红警2mod时用的一个小玩具，我居然用这个脚本把GTA5里的三百多辆车全部渲染出来了，不过材质挺难看的反正。
 
 使用过程很简单
